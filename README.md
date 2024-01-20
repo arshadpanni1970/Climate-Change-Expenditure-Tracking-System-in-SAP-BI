@@ -47,3 +47,5 @@ Benefits:
 Conclusion:
 
 The Climate Change Expenditure Tracking System in Khyber Pakhtunkhwa exemplifies a forward-thinking approach to address climate change challenges. By leveraging SAP ERP, BW/4HANA, and BI technologies, the government ensures not only efficient financial management but also informed decision-making to create a sustainable and resilient future for the region.
+![image](https://github.com/arshadpanni1970/Climate-Change-Expenditure-Tracking-System-in-SAP-BI/assets/157010630/0e704489-dbaf-4864-b5af-5da0d2fb1629)
+
