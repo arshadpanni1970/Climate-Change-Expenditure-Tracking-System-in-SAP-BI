@@ -1,4 +1,4 @@
-# Climate-Change-Expenditure-Tracking-System-in-SAP-BITitle: Climate Change Expenditure Tracking System for the Government of Khyber Pakhtunkhwa, Pakistan
+# Climate Change Expenditure Tracking System for the Government of Khyber Pakhtunkhwa, Pakistan
 
 Introduction:
 
